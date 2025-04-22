@@ -5,14 +5,8 @@ A simple machine learning project to predict house prices based on selected feat
 bash
 Copy
 Edit
-House-Price-Prediction-ML/
-│
-├── app.ipynb                # Main script to train and evaluate the model
-├── train.csv                # Training dataset
-├── test.csv                 # Test dataset
-├── sample_submission.csv    # Format for Kaggle submission
-├── data_description.txt     # Feature descriptions
-└── README.md                # Project documentation
+House-Price-Prediction-ML/ ├── app.py # Main script to train and evaluate the model ├── train.csv # Training dataset ├── test.csv # Test dataset ├── sample_submission.csv # Format for Kaggle submission ├── data_description.txt # Feature descriptions └── README.md # Project documentation
+
 ## **📊 Dataset**
 This dataset was originally from Kaggle - House Prices: Advanced Regression Techniques. It contains information on house sales in Ames, Iowa.
 
