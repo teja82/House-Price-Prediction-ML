@@ -2,29 +2,25 @@
 A simple machine learning project to predict house prices based on selected features using Linear Regression.
 
 ## 📁 **Project Structure**
-bash
-Copy
-Edit
+bash<br>
+Copy<br>
+Edit<br>
 House-Price-Prediction-ML/<br>
 │<br>
 ├── PRODIGY_ML_01.ipynb      # Main script to train and evaluate the model<br>
 ├── train.csv                # Training dataset<br>
 ├── test.csv                 # Test dataset<br>
 ├── sample_submission.csv    # Format for Kaggle submission<br>
-├── data_description.txt     # Feature descriptions<br>
 └── README.md                # Project documentation<br>
 
 ## **📊 Dataset**
 This dataset was originally from Kaggle - House Prices: Advanced Regression Techniques. It contains information on house sales in Ames, Iowa.
 
-**Target variable:** SalePrice
-**Features used in model:**
-
-**GrLivArea:** Above ground living area (in square feet)
-
-**BedroomAbvGr:** Number of bedrooms above ground
-
-**FullBath:** Number of full bathrooms above ground
+- **Target variable:** SalePrice
+- **Features used in model:**
+- **GrLivArea:** Above ground living area (in square feet)
+- **BedroomAbvGr:** Number of bedrooms above ground
+- **FullBath:** Number of full bathrooms above ground<br>
 
 You can find detailed descriptions of all the features in data_description.txt.
 
@@ -41,10 +37,10 @@ We used a Linear Regression model from scikit-learn for predicting house prices.
 - Predict the price of a new house (for demo purposes).
 
 ## **📈 Sample Output**
-After training the model, the script prints:
-bash
-Copy
-Edit
+After training the model, the script prints:<br>
+bash<br>
+Copy<br>
+Edit<br>
 Training MSE: 1402059616.12<br>
 Test MSE: 1603942893.83<br>
 Training R2: 0.718<br>
@@ -52,11 +48,11 @@ Test R2: 0.688<br>
 Predicted price for the new house: $337241.52
 
 ## **▶️ How to Run**
-Make sure you have Python and required libraries installed. Then run:
+Make sure you have Python and required libraries installed. Then run:<br>
 
-bash
-Copy
-Edit
+bash<br>
+Copy<br>
+Edit<br>
 ## 📌 **Installation & Setup**  
 1. Clone the repository:  
    ```bash
