@@ -22,8 +22,6 @@ This dataset was originally from Kaggle - House Prices: Advanced Regression Tech
 - **BedroomAbvGr:** Number of bedrooms above ground
 - **FullBath:** Number of full bathrooms above ground<br>
 
-You can find detailed descriptions of all the features in data_description.txt.
-
 ## **⚙️ Model and Approach**
 We used a Linear Regression model from scikit-learn for predicting house prices.
 
@@ -40,7 +38,7 @@ We used a Linear Regression model from scikit-learn for predicting house prices.
 After training the model, the script prints:<br>
 bash<br>
 Copy<br>
-Edit<br>
+Edit<br><br>
 Training MSE: 1402059616.12<br>
 Test MSE: 1603942893.83<br>
 Training R2: 0.718<br>
