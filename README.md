@@ -7,11 +7,11 @@ Copy<br>
 Edit<br>
 House-Price-Prediction-ML/<br>
 │<br>
-├── PRODIGY_ML_01.ipynb \t     # Main script to train and evaluate the model<br>
-├── train.csv          \t      # Training dataset<br>
-├── test.csv            \t     # Test dataset<br>
-├── sample_submission.csv  \t  # Format for Kaggle submission<br>
-└── README.md            \t    # Project documentation<br>
+├── PRODIGY_ML_01.ipynb<br>
+├── train.csv<br>
+├── test.csv<br>
+├── sample_submission.csv<br>
+└── README.md<br>
 
 ## **📊 Dataset**
 This dataset was originally from Kaggle - House Prices: Advanced Regression Techniques. It contains information on house sales in Ames, Iowa.
