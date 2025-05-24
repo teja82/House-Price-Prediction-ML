@@ -45,26 +45,6 @@ Training R2: 0.718<br>
 Test R2: 0.688<br>
 Predicted price for the new house: $337241.52
 
-## **▶️ How to Run**
-Make sure you have Python and required libraries installed. Then run:<br>
-
-bash<br>
-Copy<br>
-Edit<br>
-## 📌 **Installation & Setup**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/House-Price-Prediction.git
-   cd House-Price-Prediction
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install pandas scikit-learn
-   ```
-3. Run the application:  
-   ```bash
-   python app.py
-   ```
 ## **🔮 Future Improvements**
 - Add more features to improve accuracy
 - Explore models like Random Forest, XGBoost
